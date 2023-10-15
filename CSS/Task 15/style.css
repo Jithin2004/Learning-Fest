@@ -1,0 +1,40 @@
+body{
+    background-image: url(bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+}
+form{
+    margin-left:33%;
+    box-shadow: 0cm;
+    padding:1%;
+    width:450px;
+    height:650px;
+    background-color: white;
+    font-family:monospace;
+}
+button{
+    background-color: rgb(77, 75, 75);
+    width:100%;
+    color:white;
+    margin-top:100px;
+    padding-top:10px;
+    pADDING-BOTTOM:10px;
+}
+.box{
+    background-color: rgb(216, 212, 212);
+    border-radius: 15px;
+    width:100%;
+    border-style:hidden;
+    padding: 8px 5px;
+    margin-bottom:25px;
+}
+.line{
+    background-color: rgb(221, 221, 221);
+    margin:5px;
+    width:450px;
+    height:1px;
+}

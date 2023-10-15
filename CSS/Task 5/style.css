@@ -1,0 +1,21 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+p{
+    font-size: 18px;
+}
+.box{
+    border:15px solid rgb(6, 39, 6);
+    background-color:#5E7899;
+    padding:50px;
+    width:300px;
+    font-size:18px;
+    margin-left: 35px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
